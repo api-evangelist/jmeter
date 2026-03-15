@@ -1,0 +1,13 @@
+name: Apache JMeter
+description: Open-source Java application designed to load test functional behavior
+  and measure performance of web applications and services
+url: https://jmeter.apache.org/
+tags:
+- Performance Testing
+- Load Testing
+- Testing
+- Java
+created: '2025'
+modified: '2025'
+apis: []
+common: []
