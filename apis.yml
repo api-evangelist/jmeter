@@ -1,13 +1,44 @@
+aid: jmeter
 name: Apache JMeter
-description: Open-source Java application designed to load test functional behavior
-  and measure performance of web applications and services
-url: https://jmeter.apache.org/
+description: >-
+  Apache JMeter is an open-source Java application designed to load test
+  functional behavior and measure performance of web applications and services.
+  It can simulate heavy loads on servers, networks, and objects to test
+  performance under different load types.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Performance Testing
-- Load Testing
-- Testing
-- Java
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - Performance Testing
+  - Load Testing
+  - Testing
+  - Java
+  - Open Source
+url: https://raw.githubusercontent.com/api-evangelist/jmeter/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: jmeter:jmeter
+    name: Apache JMeter
+    description: >-
+      Apache JMeter is a load testing and performance measurement tool for
+      web applications, databases, FTP servers, and more.
+    humanURL: https://jmeter.apache.org/
+    tags:
+      - Load Testing
+      - Performance
+    properties:
+      - type: Documentation
+        url: https://jmeter.apache.org/usermanual/index.html
+      - type: Getting Started
+        url: https://jmeter.apache.org/usermanual/get-started.html
+common:
+  - type: Website
+    url: https://jmeter.apache.org/
+  - type: Documentation
+    url: https://jmeter.apache.org/usermanual/index.html
+  - type: GitHub Organization
+    url: https://github.com/apache/jmeter
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
