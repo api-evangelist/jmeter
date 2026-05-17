@@ -34,7 +34,7 @@ apis:
     properties:
       - type: Documentation
         url: https://jmeter.apache.org/usermanual/index.html
-      - type: Getting Started
+      - type: GettingStarted
         url: https://jmeter.apache.org/usermanual/get-started.html
       - type: Component Reference
         url: https://jmeter.apache.org/usermanual/component_reference.html
@@ -46,14 +46,14 @@ apis:
         url: https://jmeter.apache.org/download_jmeter.cgi
       - type: Change History
         url: https://jmeter.apache.org/changes.html
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/apache/jmeter
 common:
   - type: Website
     url: https://jmeter.apache.org/
   - type: Documentation
     url: https://jmeter.apache.org/usermanual/index.html
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/apache/jmeter
   - type: Issues
     url: https://github.com/apache/jmeter/issues
