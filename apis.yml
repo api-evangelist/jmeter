@@ -49,6 +49,10 @@ apis:
       - type: GitHubRepository
         url: https://github.com/apache/jmeter
 common:
+  - type: VulnerabilityDisclosure
+    url: security/jmeter-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/jmeter-domain-security.yml
   - type: Website
     url: https://jmeter.apache.org/
   - type: Documentation
