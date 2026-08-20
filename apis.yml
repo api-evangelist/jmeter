@@ -23,6 +23,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jmeter.png
 tags:
   - Java
   - Load Testing
+  - Open-Source
+  - Performance Testing
+  - Testing
+tags_raw:
+  - Java
+  - Load Testing
   - Open Source
   - Performance Testing
   - Testing
