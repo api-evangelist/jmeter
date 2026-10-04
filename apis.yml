@@ -35,7 +35,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jmeter.png
 tags:
   - Java
   - Load Testing
-  - Open-Source
+  - Open Source
   - Performance Testing
   - Testing
 tags_raw:
@@ -44,6 +44,7 @@ tags_raw:
   - Open Source
   - Performance Testing
   - Testing
+  - Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/jmeter/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-04-28'
